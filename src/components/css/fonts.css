@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "bpg";
+  src: url(../fonts/bpg-arial-caps-webfont.ttf);
+}
+
+@font-face {
+  font-family: "bpgcaps";
+  src: url(../fonts/bpgcaps.ttf);
+}
+
+@font-face {
+  font-family: "panton-reg";
+  src: url(../fonts/PantonMtav3reg.ttf);
+}
+
+@font-face {
+  font-family: "panton-bold";
+  src: url(../fonts/PantonMtav3Bold.ttf);
+}
+
+@font-face {
+  font-family: "roboto-reg";
+  src: url(../fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: "roboto-medium";
+  src: url(../fonts/Roboto-Medium.ttf);
+}
+
+@font-face {
+  font-family: "roboto-thin";
+  src: url(../fonts/Roboto-Thin.ttf);
+}
+
+@font-face {
+  font-family: "roboto-bold";
+  src: url(../fonts/Roboto-Bold.ttf);
+}
